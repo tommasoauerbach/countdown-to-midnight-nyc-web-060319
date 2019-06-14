@@ -1,4 +1,8 @@
-def countdown_to_midnight
+def countdown
+
+  loop do
+    
+  end
 
   counter = 0
 
