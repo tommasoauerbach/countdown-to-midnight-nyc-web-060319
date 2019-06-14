@@ -1,8 +1,6 @@
 def countdown
 
   loop do
-    
-  end
 
   counter = 0
 
