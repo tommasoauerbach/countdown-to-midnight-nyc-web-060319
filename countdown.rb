@@ -4,4 +4,5 @@ def countdown (seconds_to_midnight)
     puts "#{seconds_to_midnight} SECOND(S)!"
     counter -= 1
   end
+  "HAPPY NEW YEAR!"
 end
