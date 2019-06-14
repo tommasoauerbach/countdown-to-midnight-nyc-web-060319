@@ -1,10 +1,7 @@
-def countdown
+def countdown (seconds_to_midnight)
 
-  counter = 10
-
-  while counter > 0 do
-    puts "#{counter} SECOND(S)!"
+  while seconds_to_midnight > 0
+    puts "#{seconds_to_midnight} SECOND(S)!"
     counter -= 1
   end
-
 end
