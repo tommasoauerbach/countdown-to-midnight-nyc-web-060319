@@ -4,6 +4,7 @@ def countdown_to_midnight
     puts "#{counter} SECOND(S)!"
     counter += 1
   end
-  if counter == 12 
+  if counter == 12 do
   puts "HAPPY NEW YEAR!"
+end
 end
