@@ -7,7 +7,7 @@ def countdown_to_midnight
     counter += 1
   end
 
-  if counter == 12 do
+  if (counter == 12) do
   puts "HAPPY NEW YEAR!"
 end
 
